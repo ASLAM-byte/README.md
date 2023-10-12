@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 📚 Studying Computer Science at [Your University Name].<br>- 💻 Learning and improving my coding skills in C,Java and WEB DEVLOPMENT<br>- 🔍 Exploring the vast world of software development and eager to contribute to open source projects.<br>
+- 📚 Studying Computer Science at NARULA INSTITUTE OF TECHNOLOGY .<br>- 💻 Learning and improving my coding skills in C,Java and WEB DEVLOPMENT<br>- 🔍 Exploring the vast world of software development and eager to contribute to open source projects.<br>
 
 
 ## 🌐 Socials:
